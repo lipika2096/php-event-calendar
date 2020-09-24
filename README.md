@@ -17,6 +17,4 @@ title VARCHAR(100),
 start DATE,
 end DATE);
 
-Source code taken from https://github.com/cturpin/FullCalendar-Ajax-Php-Mysql and changed.
-
 Used http://fullcalendar.io/ fullcalendar javascript library.
